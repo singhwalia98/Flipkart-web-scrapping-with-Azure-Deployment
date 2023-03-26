@@ -39,8 +39,9 @@
 
 * Installing Python, VS Code, Git to Computer.
 * Creating Flask app by importing `Flask` module.
-* Getting information about YouTube.
-* Scraping dynamic website using one of the most popular Python libraries, `BeautifulSoup `which can load the data into Json format by using `"script"` in `soup.find` method.
+* Getting information about Flipkart ecommerce website.
+* Scraping the website using some of the most popular Python libraries, `BeautifulSoup`, flask_cors & `requests`. 
+
 
 ### Flask
 * Importing the Flask module and creating a Flask web server from the Flask module.
