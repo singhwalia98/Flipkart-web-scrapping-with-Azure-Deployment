@@ -32,7 +32,7 @@
 <!-- USAGE -->
 ## ❇️ Usage
 *  Web scraping is a term for various methods used to collect data from across the Internet.
-*  This web scraper extracts all the data on `Flipkart ecommerce website's` all course information.
+*  This web scraper extracts all the `reviews` on `Flipkart ecommerce website` for any listed product.
 
 <!-- STEPS -->
 ## 📌 Steps
